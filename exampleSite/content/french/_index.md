@@ -3,13 +3,14 @@ banner:
   enable: true
   bg_image: images/slider-bg.jpg
   bg_overlay: true
-  title: A Digital Marketing <br/> & Design Agency
-  content: We love the Web and the work we do.We work closely with our clients to
-    deliver  the best possible solutions for their needs
+  title: Droit du travail <br/> et protection sociale
+  content: Maître Chloé FABIAN est titulaire d’un master II « droit de la protection
+    sociale d’entreprise » et, est diplômée de l’École de formation professionnelle
+    des barreaux de la cour d’appel de Paris.
   button:
     enable: true
-    label: Discover Our Project
-    link: project
+    label: En savoir plus
+    link: about
 about:
   enable: true
   title: About Us
