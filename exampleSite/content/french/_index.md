@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image: images/slider-bg.jpg
+  bg_image: images/marseille-ville.jpg
   bg_overlay: true
   title: Droit du travail <br/> et protection sociale
   content: Maître Chloé FABIAN est titulaire d’un master II « droit de la protection
