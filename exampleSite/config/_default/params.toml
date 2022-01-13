@@ -25,9 +25,9 @@ success_image = "images/paper-plane.svg"
 use_netlify = true
 use_recaptcha = true
 [cookies]
-button = "I Accept"
+button = "J'accepte !"
 content = "This site uses cookies. By continuing to use this website, you agree to their use."
-enable = false
+enable = true
 expire_days = 2
 [counter]
 enable = false
