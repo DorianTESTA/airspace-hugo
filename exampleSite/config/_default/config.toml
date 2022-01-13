@@ -1,4 +1,5 @@
 baseURL = "https://dorian-testa.fr/airspace/"
+DefaultContentLanguage = "fr"
 disableLanguages = ["de", "it"]
 disqusShortname = "themefisher-template"
 googleAnalytics = ""
