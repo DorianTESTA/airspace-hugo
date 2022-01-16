@@ -1,18 +1,18 @@
 address_descriptors = false
 author = "Themefisher"
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Site créé par Dorian TESTA (mailto:doriantesta@yahoo.fr)"
 custom_script = ""
 description = "This is meta description"
 email = "demo@email.com"
 favicon = "images/favicon.png"
 google_tag_manager = ""
 image = "images/logo.png"
-location = "**Themefisher**  \nNorth Main Street  \nBrooklyn, New South Wales  \nAustralia\n"
+location = "**Marseille**  13, cours Pierre Puget 13006 Marseille"
 logo = "images/logo.png"
 logo_text = "Airspace"
 logo_width = "150px"
 navbar_fixed = false
-phone = "0124857985320"
+phone = "07 "
 recaptcha_site_key = "xxx-xxxxxxxxxxxxxxxxxxxxxxxx"
 social = []
 [baidu]
