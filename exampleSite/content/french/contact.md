@@ -1,6 +1,7 @@
-+++
-bg_image = ""
-description = "prise de contact"
-title = "Drop Us A Note"
-
-+++
+---
+title: "Contact"
+description: "this is meta description"
+bg_image: "images/feature-bg.jpg"
+layout: "contact"
+draft: false
+---
