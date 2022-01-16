@@ -1,7 +1,7 @@
 +++
 bg_image = ""
-description = ""
+description = "prise de contact"
 draft = true
-title = "Contact"
+title = "Drop Us A Note"
 
 +++
