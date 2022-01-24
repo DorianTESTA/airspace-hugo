@@ -5,9 +5,21 @@ bg_image: images/feature-bg.jpg
 layout: about
 about:
   enable: true
-  image: images/company/about.jpg
+  image: "/images/photo-chloé.jpg"
   title: We strive to be the best and <br> make awesome work.
-  content: J'ai fais un bac S ...... bla bla bla
+  content: "Diplômée de l’École de formation professionnelle des barreaux de la cour
+    d’appel de Paris, Maître FABIAN a prêté serment en 2018.  \nDétentrice d’un Master
+    I en droit social et d’un Master II en droit de la protections sociale d’entreprise
+    de l’université Paris I – Panthéon Sorbonne, Maître FABIAN était désireuse de
+    mettre à profit ces acquis universitaires dans son exercice professionnel.\nA
+    l’issue de son parcours universitaire, Maître FABIAN a intégré le service juridique
+    d’une importante entreprise française pendant près d’un an. \nPar la suite, Maître
+    FABIAN a enrichi ses connaissances et compétences en collaborant dès sa prestation
+    de serment avec le pôle social d’un grand cabinet marseillais. \nMaître FABIAN
+    est également membre de la commission de droit social du barreau de Marseille.
+    \nElle intervient en conseil et contentieux en droit du Travail et droit de la
+    Sécurité Sociale pour une clientèle composée tout à la fois de groupes, de Sociétés,
+    de TPE, de PME et de salariés.\n"
   button:
     enable: false
     label: Download Company Profile
