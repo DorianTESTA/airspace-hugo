@@ -1,7 +1,7 @@
 ---
 title: Mon parcours professionnel
 description: description
-bg_image: images/feature-bg.jpg
+bg_image: images/parcours.jpg
 layout: about
 about:
   enable: true
