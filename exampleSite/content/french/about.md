@@ -1,6 +1,6 @@
 ---
 title: A propos
-description: description
+description: ''
 bg_image: images/parcours.jpg
 layout: about
 about:
