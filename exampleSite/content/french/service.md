@@ -28,7 +28,8 @@ featured_service:
       de la faute inexcusable de l’employeur de la reconnaissance de la faute inexcusable
       à l’éventuelle liquidation des préjudices après expertise médicale\nContentieux
       contre tout organisme de sécurité sociale : CPAM/MSA/CPR SNCF/CAMIEG, CAF, CARSAT
-      \n"
+      \nContentieux contre la MDPH au titre de toutes prestations pour les personnes
+      handicapées"
   - name: CONSEIL ET ACCOMPAGNEMENT
     icon: fas fa-hands-helping
     color: primary
