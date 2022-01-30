@@ -30,7 +30,7 @@ featured_service:
       Gestion du recours administratif préalable obligatoire </br>
   - name: CONTENTIEUX DES RELATIONS DE TRAVAIL
     icon: fas fa-briefcase
-    color: primary-darker
+    color: "#001F54"
     content: |-
       <u>Contentieux prud’homal :</u>
       Contestation de licenciement pour inaptitude, pour faute, pour insuffisance professionnelle, pour motif économique
