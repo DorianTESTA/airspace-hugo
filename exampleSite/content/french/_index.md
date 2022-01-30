@@ -4,9 +4,11 @@ banner:
   bg_image: images/marseille-ville.jpg
   bg_overlay: true
   title: Droit du travail <br/> et protection sociale
-  content: Maître Chloé FABIAN est titulaire d’un master II « droit de la protection
-    sociale d’entreprise » et, est diplômée de l’École de formation professionnelle
-    des barreaux de la cour d’appel de Paris.
+  content: "Chloé FABIAN, Avocat au barreau de Marseille, vous accompagne dans toutes
+    vos problématiques en droit du travail et droit de la sécurité sociale.\nMaître
+    FABIAN met ainsi au profit de ses clients toute son expérience et sa réactivité
+    afin de vous apporter une réponse rapide et individualisée, correspondant à votre
+    besoin. "
   button:
     enable: true
     label: En savoir plus
@@ -25,7 +27,7 @@ about:
     culpa qui officia deserunt mollit anim id.
   image: images/wrapper-img.png
 portfolio:
-  enable: true
+  enable: false
   bg_image: images/feature-bg.jpg
   title: WE BELIEVE IN GREAT IDEAS
   content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur
