@@ -23,14 +23,14 @@ featured_service:
   - name: CONSEIL ET ACCOMPAGNEMENT
     icon: fas fa-flask
     color: primary
-    content: "•\tRédaction et analyse des contrats de travail\n•\tAccompagnement et
+    content: "Rédaction et analyse des contrats de travail</br>\nAccompagnement et
       suivi de la rupture du contrat de travail pour tout motif (disciplinaire, inaptitude,
-      insuffisance professionnelle, motif économique, absence prolongée, rupture conventionnelle)\n•\tAssistance
-      dans la procédure disciplinaire \n•\tAide à la gestion de la rémunération et
-      du temps de travail\n•\tAide à la gestion de la santé et de la sécurité au travail
-      \n•\tAccompagnement dans la mise en place de la protection sociale complémentaire
-      dans l’entreprise\n•\tAssistance dans la négociation collective\n•\tGestion
-      d’une situation de harcèlement \n"
+      insuffisance professionnelle, motif économique, absence prolongée, rupture conventionnelle)
+      </br>\nAssistance dans la procédure disciplinaire </br>\nAide à la gestion de
+      la rémunération et du temps de travail </br>\nAide à la gestion de la santé
+      et de la sécurité au travail </br>\tAccompagnement dans la mise en place de
+      la protection sociale complémentaire dans l’entreprise </br>\nAssistance dans
+      la négociation collective </br>\nGestion d’une situation de harcèlement </br>"
   - name: Product Branding
     icon: fas fa-leaf
     color: primary-dark
