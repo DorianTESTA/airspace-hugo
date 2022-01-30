@@ -25,7 +25,7 @@ weight = 2
 [[main]]
 name = "Tarification"
 url = "pricing/"
-weight = 2
+weight = "3"
 [[main]]
 name = "Contact"
 url = "contact/"
