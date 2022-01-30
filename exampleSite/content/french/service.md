@@ -1,21 +1,18 @@
 ---
-title: Domaines d'intervention
+title: DOMAINES D'INTERVENTION
 description: ''
 bg_image: images/feature-bg.jpg
 layout: service
 about:
   enable: true
-  title: Creative UX/UI Design Agency
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate soluta
-    corporis odit, optio cum! Accusantium numquam ab, natus excepturi architecto earum
-    ipsa aliquam, illum, omnis rerum, eveniet officia nihil. Eum quod iure nulla,
-    soluta architecto distinctio. Nesciunt odio ullam expedita, neque fugit maiores
-    sunt perferendis placeat autem animi, nihil quis suscipit quibusdam ut reiciendis
-    doloribus natus nemo id quod illum aut culpa perspiciatis consequuntur tempore?
-    Facilis nam vitae iure quisquam eius harum consequatur sapiente assumenda, officia
-    voluptas quas numquam placeat, alias molestias nisi laudantium nesciunt perspiciatis
-    suscipit hic voluptate corporis id distinctio earum. Dolor reprehenderit fuga
-    dolore officia adipisci neque!
+  title: ''
+  content: "Il existe différents domaines d'intervention au sujet du droit du travail.
+    En effet, cette distinction se fait suivant différents points : \n\nEst ce que
+    vous êtes employeur ?\n\nEst ce que vous êtes employé ?\n\nEst ce que ça va la
+    famille ?\n\nLe rôle de l'avocat est de vous accompagner dans votre démarche et
+    de vous aiguiller dans le bon mode de fonctionnement pour répondre aux mieux à
+    vos attentes.\n\nMaître FABIAN met au service de ses clients son expertise en
+    droit du travail et de la sécurité sociale dans les domaines suivants :"
   image: images/company/company-group-pic.jpg
 featured_service:
   enable: true
