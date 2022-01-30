@@ -13,7 +13,7 @@ weight = "3"
 [[footer]]
 name = "Contact"
 url = "contact/"
-weight = 7
+weight = "4"
 [[main]]
 name = "Accueil"
 url = ""
