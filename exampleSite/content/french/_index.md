@@ -14,7 +14,7 @@ banner:
     label: En savoir plus
     link: about
 about:
-  enable: true
+  enable: false
   title: About Us
   description: Far far away, behind the word mountains, far from the countries Vokalia
     and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
@@ -27,7 +27,7 @@ about:
     culpa qui officia deserunt mollit anim id.
   image: images/wrapper-img.png
 portfolio:
-  enable: false
+  enable: true
   bg_image: images/feature-bg.jpg
   title: WE BELIEVE IN GREAT IDEAS
   content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur
@@ -43,7 +43,7 @@ portfolio:
     label: View Works
     link: project
 service:
-  enable: true
+  enable: false
 cta:
   enable: true
   bg_image: images/call-to-action-bg.jpg
