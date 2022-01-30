@@ -20,7 +20,6 @@ url = "about/"
 weight = 2
 [[main]]
 name = "Tarification"
-parent = "Plus"
 url = "pricing/"
 weight = 2
 [[main]]
