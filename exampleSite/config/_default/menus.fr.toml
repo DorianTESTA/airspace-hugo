@@ -9,7 +9,7 @@ weight = 2
 [[footer]]
 name = "Tarification"
 url = "pricing/"
-weight = 5
+weight = "3"
 [[footer]]
 name = "Contact"
 url = "contact/"
