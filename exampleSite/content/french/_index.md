@@ -5,7 +5,7 @@ banner:
   bg_overlay: true
   title: Droit du travail <br/> et protection sociale
   content: "Chloé FABIAN, Avocat au barreau de Marseille, vous accompagne dans toutes
-    vos problématiques en droit du travail et droit de la sécurité sociale.\nMaître
+    vos problématiques en droit du travail et droit de la sécurité sociale.\n\nMaître
     FABIAN met ainsi au profit de ses clients toute son expérience et sa réactivité
     afin de vous apporter une réponse rapide et individualisée, correspondant à votre
     besoin. "
@@ -29,19 +29,22 @@ about:
 portfolio:
   enable: true
   bg_image: images/feature-bg.jpg
-  title: WE BELIEVE IN GREAT IDEAS
-  content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur
-    ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris
-    condimentum nibh, ut fermentum massa justo sit amet risus.\n\nMaecenas faucibus
-    mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-    Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum
-    massa justo sit amet risus.\n\nMaecenas faucibus mollis interdum. Morbi leo risus,
-    porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo,
-    tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. "
+  title: Domaines d'intervention
+  content: |2-
+
+    Maître FABIAN met au service de ses clients son expertise en droit du travail et de la sécurité sociale dans les domaines suivants :
+
+    CONSEIL ET ACCOMPAGNEMENT
+
+    ASSISTANCE DANS LE CADRE DU « PRE CONTENTIEUX »
+
+    CONTENTIEUX DES RELATIONS DE TRAVAIL
+
+    CONTENTIEUX DE LA SECURITE SOCIALE
   button:
     enable: true
-    label: View Works
-    link: project
+    label: En savoir plus
+    link: service
 service:
   enable: false
 cta:
