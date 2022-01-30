@@ -1,55 +1,30 @@
 ---
-title: "Our Pricing"
-description: "this is meta description"
-bg_image: "images/feature-bg.jpg"
-layout: "pricing"
-draft: false
-
-################################ pricing ################################
+title: Honoraires
+description: 'Maître FABIAN garantit des honoraires transparents, adaptés à la situation
+  de ses clients, à la complexité de leurs dossiers et au temps passé au traitement
+  de ceux-ci. Le montant des honoraires est donc librement fixé en accord avec le
+  client dès le premier rendez-vous, et fait l’objet d’une convention d’honoraires.
+  Les honoraires sont adaptés à la situation de chaque client. Ils tiennent compte
+  de leur situation personnelle, de la complexité et du temps consacré à l’affaire,
+  du travail de recherche requis, des diligences à effectuer ainsi que des frais exposés
+  par le cabinet. Le mode de rémunération peut se faire sous deux formes :'
+bg_image: images/feature-bg.jpg
+layout: pricing
 pricing:
-  enable : true
+  enable: true
   pricing_table:
-  # pricing table loop
-  - name : "Basic"
-    price: "$99"
-    content : "Perfect for single freelancers who work by themselves"
-    link : "#"
-    services:
-    - Unlimited agents
-    - 10 PSD Design
-    - HTML5 Markup
-    - Basic SEO
-    - Email Marketing
-    - 24/7 Tech Support
-
-  # pricing table loop
-  - name : "Premium"
-    price: "$199"
-    content : "Suitable for small businesses with up to 5 employees"
-    link : "#"
-    services:
-    - Unlimited agents
-    - 10 PSD Design
-    - HTML5 Markup
-    - Basic SEO
-    - Email Marketing
-    - 24/7 Tech Support
-
-  # pricing table loop
-  - name : "Advance"
-    price: "$299"
-    content : "Suitable for large businesses with unlimited employees"
-    link : "#"
-    services:
-    - Unlimited agents
-    - 10 PSD Design
-    - HTML5 Markup
-    - Basic SEO
-    - Email Marketing
-    - 24/7 Tech Support
-
-############################# call to action #################################
+  - name: Honoraire au forfait
+    price: ''
+    content: 'Un montant fixe est convenu pour l’ensemble de la procédure '
+    link: "#"
+    services: []
+  - name: Honoraire au temps passé
+    price: ''
+    content: Défini en fonction de la durée de traitement du dossier et du tarif horaire
+      du cabinet
+    link: "#"
+    services: []
 cta:
-  enable : true
-  # call to action content comes from "_index.md"
+  enable: true
+
 ---
