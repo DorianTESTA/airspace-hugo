@@ -1,4 +1,8 @@
 [[footer]]
+name = "Accueil"
+url = ""
+weight = "1"
+[[footer]]
 name = "À propos"
 url = "about/"
 weight = 2
