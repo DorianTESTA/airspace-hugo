@@ -7,12 +7,13 @@ about:
   enable: true
   title: ''
   content: "Il existe différents domaines d'intervention au sujet du droit du travail.
-    En effet, cette distinction se fait suivant différents points : \n\nEst ce que
-    vous êtes employeur ?\n\nEst ce que vous êtes employé ?\n\nEst ce que ça va la
-    famille ?\n\nLe rôle de l'avocat est de vous accompagner dans votre démarche et
-    de vous aiguiller dans le bon mode de fonctionnement pour répondre aux mieux à
-    vos attentes.\n\nMaître FABIAN met au service de ses clients son expertise en
-    droit du travail et de la sécurité sociale dans les domaines suivants :"
+    En effet, cette distinction se fait suivant différents points : \n\n<b>Est ce
+    que vous êtes employeur ? </b>\n\n<b>Est ce que vous êtes employé ? </b>\n\n<b>Est
+    ce que ça va la famille ? </b>\n\nLe rôle de l'avocat est de vous accompagner
+    dans votre démarche et de vous aiguiller dans le bon mode de fonctionnement pour
+    répondre aux mieux à vos attentes.\n\nMaître FABIAN met au service de ses clients
+    son expertise en droit du travail et de la sécurité sociale dans les domaines
+    suivants :"
   image: images/company/company-group-pic.jpg
 featured_service:
   enable: true
