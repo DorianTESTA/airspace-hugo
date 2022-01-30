@@ -21,11 +21,13 @@ featured_service:
   - name: ASSISTANCE DANS LE CADRE DU « PRE CONTENTIEUX »
     icon: fas fa-balance-scale-left
     color: primary-dark
-    content: "Accompagnement dans la négociation transactionnelle,\nRédaction de courrier
-      de mise en demeure,\nAnalyse et vérification des droits\nConseil en vue d’une
-      prise d’acte de la rupture du contrat de travail\nRecours devant la Commission
-      de Recours Amiable ou Commission Médicale de Recours Amiable \nGestion du recours
-      administratif préalable obligatoire "
+    content: |-
+      Accompagnement dans la négociation transactionnelle</br>
+      Rédaction de courrier de mise en demeure</br>
+      Analyse et vérification des droits</br>
+      Conseil en vue d’une prise d’acte de la rupture du contrat de travail</br>
+      Recours devant la Commission de Recours Amiable ou Commission Médicale de Recours Amiable </br>
+      Gestion du recours administratif préalable obligatoire </br>
   - name: CONTENTIEUX DES RELATIONS DE TRAVAIL
     icon: fas fa-briefcase
     color: primary-darker
