@@ -34,7 +34,7 @@ enable = false
 username = ""
 [gmap]
 enable = true
-gmap_api = "AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU"
+gmap_api = "AIzaSyAnLWT024Pw0TmymtD1hH3q20Zk_bNAtA4"
 map_latitude = "43.2904462"
 map_longitude = "5.3736582,18"
 map_marker = "images/marker.png"
