@@ -7,7 +7,7 @@ name = "À propos"
 url = "about/"
 weight = 2
 [[footer]]
-name = "Domaine d'activité"
+name = "Domaines d'intervention"
 url = "/service"
 weight = "3"
 [[footer]]
@@ -27,7 +27,7 @@ name = "À propos"
 url = "about/"
 weight = 2
 [[main]]
-name = "Domaines d'activité"
+name = "Domaines d'intervention"
 url = "/service"
 weight = "3"
 [[main]]
