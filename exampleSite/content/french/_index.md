@@ -28,7 +28,7 @@ about:
   image: images/wrapper-img.png
 portfolio:
   enable: true
-  bg_image: images/feature-bg.jpg
+  bg_image: "/images/bâtiment-bleu.jpg"
   title: Domaines d'intervention
   content: |2-
 
