@@ -49,7 +49,7 @@ service:
   enable: false
 cta:
   enable: true
-  bg_image: images/call-to-action-bg.jpg
+  bg_image: "/images/contact-question.jpg"
   title: Où me contacter ?
   content: Afin d'échanger sur ce dont vous pouvez avoir besoin, merci de ...
   button:
