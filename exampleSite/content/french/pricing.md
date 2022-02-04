@@ -8,7 +8,7 @@ description: 'Maître FABIAN garantit des honoraires transparents, adaptés à l
   de leur situation personnelle, de la complexité et du temps consacré à l’affaire,
   du travail de recherche requis, des diligences à effectuer ainsi que des frais exposés
   par le cabinet. Le mode de rémunération peut se faire sous deux formes :'
-bg_image: images/feature-bg.jpg
+bg_image: "/images/honoraire.jpg"
 layout: pricing
 pricing:
   enable: true
