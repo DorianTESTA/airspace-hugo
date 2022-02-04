@@ -1,5 +1,5 @@
 ---
-title: DOMAINES D'INTERVENTION
+title: Domaines d'intervention
 description: ''
 bg_image: "/images/bâtiment-bleu.jpg"
 layout: service
