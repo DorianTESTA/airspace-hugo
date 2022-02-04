@@ -8,18 +8,19 @@ about:
   image: "/images/photo-chloé.jpg"
   title: Mon parcours professionnel</br>
   content: "Diplômée de l’École de formation professionnelle des barreaux de la cour
-    d’appel de Paris, Maître FABIAN a prêté serment en 2018.\n  \nDétentrice d’un
-    Master I en droit social et d’un Master II en droit de la protections sociale
-    d’entreprise de l’université Paris I – Panthéon Sorbonne, Maître FABIAN était
-    désireuse de mettre à profit ces acquis universitaires dans son exercice professionnel.\n\nA
-    l’issue de son parcours universitaire, Maître FABIAN a intégré le service juridique
-    d’une importante entreprise française pendant près d’un an. \n\nPar la suite,
-    Maître FABIAN a enrichi ses connaissances et compétences en collaborant dès sa
-    prestation de serment avec le pôle social d’un grand cabinet marseillais. \n\nMaître
-    FABIAN est également membre de la commission de droit social du barreau de Marseille.
-    \n\nElle intervient en conseil et contentieux en droit du Travail et droit de
-    la Sécurité Sociale pour une clientèle composée tout à la fois de groupes, de
-    Sociétés, de TPE, de PME et de salariés.\n"
+    d’appel de Paris, Maître FABIAN a prêté serment en 2018.\n \n\nDétentrice d’un
+    <b>Master I en droit social</b> et d’un <b>Master II en droit de la protections
+    sociale d’entreprise</b> de l’université Paris I – Panthéon Sorbonne, Maître FABIAN
+    était désireuse de mettre à profit ces acquis universitaires dans son exercice
+    professionnel.\n\n\nA l’issue de son parcours universitaire, Maître FABIAN a intégré
+    le service juridique d’une importante entreprise française pendant près d’un an.
+    \n\n\nPar la suite, Maître FABIAN a enrichi ses connaissances et compétences en
+    collaborant dès sa prestation de serment avec le pôle social d’un cabinet marseillais
+    reconnu. \n\n\nMaître FABIAN est également <b>membre de la commission de droit
+    social du barreau de Marseille</b>. \n\n\nElle intervient en conseil et contentieux
+    en droit du Travail et droit de la Sécurité Sociale pour une clientèle composée
+    tout à la fois de <b>grands groupes<b>, de <b>Sociétés</b>, de <b>TPE</b>, de
+    <b>PME</b> et de <b>salariés</b>.\n"
   button:
     enable: false
     label: Download Company Profile
