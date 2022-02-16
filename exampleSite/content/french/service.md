@@ -4,7 +4,7 @@ description: ''
 bg_image: "/images/bâtiment-bleu.jpg"
 layout: service
 about:
-  enable: true
+  enable: false
   title: ''
   content: "Il existe différents domaines d'intervention au sujet du droit du travail.
     En effet, cette distinction se fait suivant différents points : \n\n\n<b>Est ce
@@ -68,10 +68,15 @@ featured_service:
       handicapées"
 service:
   enable: true
-  title: Our Services
-  description: Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics
+  title: ''
+  description: "Il existe différents domaines d'intervention au sujet du droit du
+    travail. En effet, cette distinction se fait suivant différents points : \n\n\n<b>Est
+    ce que vous êtes employeur ? </b>\n\n<b>Est ce que vous êtes employé ? </b>\n\n<b>Est
+    ce que ça va la famille ? </b>\n\n\nLe rôle de l'avocat est de vous accompagner
+    dans votre démarche et de vous aiguiller dans le bon mode de fonctionnement pour
+    répondre aux mieux à vos attentes.\n\nMaître FABIAN met au service de ses clients
+    son expertise en droit du travail et de la sécurité sociale dans les domaines
+    suivants :"
   service_item:
   - icon: ion-coffee
     name: Branding
