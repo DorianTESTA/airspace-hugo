@@ -116,22 +116,6 @@ service:
       à l’éventuelle liquidation des préjudices après expertise médicale Contentieux
       contre tout organisme de sécurité sociale : CPAM/MSA/CPR SNCF/CAMIEG, CAF, CARSAT  Contentieux
       contre la MDPH au titre de toutes prestations pour les personnes handicapées'
-  - icon: ion-headphone
-    name: Logo Design
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-  - icon: fas fa-leaf
-    name: Development
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-  - icon: ion-planet
-    name: Brand Identity
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-  - icon: ion-earth
-    name: Brand Identity
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
 cta:
   enable: false
 
