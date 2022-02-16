@@ -81,13 +81,6 @@ service:
       de la sécurité au travail </br>\tAccompagnement dans la mise en place de la
       protection sociale complémentaire dans l’entreprise </br> Assistance dans la
       négociation collective </br> Gestion d’une situation de harcèlement </br>"
-  - icon: fas fa-balance-scale-left
-    name: ASSISTANCE DANS LE CADRE DU « PRE CONTENTIEUX »
-    content: Accompagnement dans la négociation transactionnelle</br> Rédaction de
-      courrier de mise en demeure</br> Analyse et vérification des droits</br> Conseil
-      en vue d’une prise d’acte de la rupture du contrat de travail</br> Recours devant
-      la Commission de Recours Amiable ou Commission Médicale de Recours Amiable </br>
-      Gestion du recours administratif préalable obligatoire </br>
   - icon: fas fa-briefcase
     name: CONTENTIEUX DES RELATIONS DE TRAVAIL
     content: "<u>Contentieux prud’homal :</u> Contestation de licenciement pour inaptitude,
@@ -101,6 +94,13 @@ service:
       : </u> Recours gracieux, hiérarchique et contentieux (notamment sur les procédures
       de licenciement de représentants du personnel) Recours contentieux en matière
       de contestation de l’homologation/validation d’un PSE"
+  - icon: fas fa-balance-scale-left
+    name: ASSISTANCE DANS LE CADRE DU « PRE CONTENTIEUX »
+    content: Accompagnement dans la négociation transactionnelle</br> Rédaction de
+      courrier de mise en demeure</br> Analyse et vérification des droits</br> Conseil
+      en vue d’une prise d’acte de la rupture du contrat de travail</br> Recours devant
+      la Commission de Recours Amiable ou Commission Médicale de Recours Amiable </br>
+      Gestion du recours administratif préalable obligatoire </br>
   - icon: fas fa-file-medical
     name: CONTENTIEUX DE LA SECURITE SOCIALE
     content: 'Contentieux du redressement URSSAF Contestation de l’existence et du
