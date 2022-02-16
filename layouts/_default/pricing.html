@@ -12,8 +12,8 @@
       <div class="col-md-6 col-sm-6 col-xs-12">
         <div class="pricing-item text-center">
           <div class="price-title">
-            {{ with .name }}<h3>{{ . | markdownify }}</h3>{{ end }}
             {{ with .price }}<i class="value {{ . }}"></i>{{ end }}
+            {{ with .name }}<h3>{{ . | markdownify }}</h3>{{ end }}
             {{ with .content }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
           </div>
           <ul>
@@ -25,7 +25,9 @@
       </div>
       {{ end }}
       <!-- end single pricing table -->
-      <p>Dans tous les cas, un acompte est demandé pour toute ouverture et étude de dossier.</p>
+      <div class="col-md-12 text-center">
+        <p>Dans tous les cas, un acompte est demandé pour toute ouverture et étude de dossier.</p>
+      </div>
     </div>
   </div>
 </section>
