@@ -13,8 +13,8 @@ layout: pricing
 pricing:
   enable: true
   pricing_table:
-  - name: <i class="fas fa-hands-helping"></i>
-    price: Honoraire au forfait
+  - name: Honoraire au forfait
+    price: <i class="fas fa-hands-helping"></i>
     content: 'Un montant fixe est convenu pour l’ensemble de la procédure '
     link: "#"
     services: []
