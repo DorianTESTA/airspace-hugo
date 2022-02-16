@@ -25,6 +25,6 @@ pricing:
     link: "#"
     services: []
 cta:
-  enable: true
+  enable: false
 
 ---
