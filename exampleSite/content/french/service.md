@@ -67,44 +67,50 @@ featured_service:
       \nContentieux contre la MDPH au titre de toutes prestations pour les personnes
       handicapées"
 service:
-  enable: false
+  enable: true
   title: Our Services
   description: Far far away, behind the word mountains, far from the countries Vokalia
     and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
     right at the coast of the Semantics
   service_item:
-  - icon: ion-coffee
-    name: Branding
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-  - icon: ion-compass
-    name: Web Design
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-  - icon: ion-image
-    name: App Design
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-  - icon: ion-bug
-    name: Start Up
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-  - icon: ion-headphone
-    name: Logo Design
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-  - icon: fas fa-leaf
-    name: Development
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-  - icon: ion-planet
-    name: Brand Identity
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-  - icon: ion-earth
-    name: Brand Identity
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+  - icon: fas fa-balance-scale-left
+    name: ASSISTANCE DANS LE CADRE DU « PRE CONTENTIEUX »
+    content: Accompagnement dans la négociation transactionnelle</br> Rédaction de
+      courrier de mise en demeure</br> Analyse et vérification des droits</br> Conseil
+      en vue d’une prise d’acte de la rupture du contrat de travail</br> Recours devant
+      la Commission de Recours Amiable ou Commission Médicale de Recours Amiable </br>
+      Gestion du recours administratif préalable obligatoire </br>
+  - icon: fas fa-briefcase
+    name: CONTENTIEUX DES RELATIONS DE TRAVAIL
+    content: "<u>Contentieux prud’homal :</u> Contestation de licenciement pour inaptitude,
+      pour faute, pour insuffisance professionnelle, pour motif économique Contentieux
+      de la prise d’acte ou résiliation judiciaire du contrat de travail Contentieux
+      du harcèlement moral ou de la discrimination salariale / syndicale Contentieux
+      de réclamation d’heures supplémentaires et remise en cause de forfait jours
+      Contentieux de requalification des C.D.D. <u>Contentieux collectifs : </u> Contestation
+      des élections professionnelles Contentieux des désignations et honoraires des
+      experts CSE Référés en cas de grève avec blocage illicite <u>Contentieux administratifs
+      : </u> Recours gracieux, hiérarchique et contentieux (notamment sur les procédures
+      de licenciement de représentants du personnel) Recours contentieux en matière
+      de contestation de l’homologation/validation d’un PSE"
+  - icon: fas fa-hands-helping
+    name: CONSEIL ET ACCOMPAGNEMENT
+    content: "Rédaction et analyse des contrats de travail</br> Accompagnement et
+      suivi de la rupture du contrat de travail pour tout motif (disciplinaire, inaptitude,
+      insuffisance professionnelle, motif économique, absence prolongée, rupture conventionnelle)
+      </br> Assistance dans la procédure disciplinaire </br> Aide à la gestion de
+      la rémunération et du temps de travail </br> Aide à la gestion de la santé et
+      de la sécurité au travail </br>\tAccompagnement dans la mise en place de la
+      protection sociale complémentaire dans l’entreprise </br> Assistance dans la
+      négociation collective </br> Gestion d’une situation de harcèlement </br>"
+  - icon: fas fa-file-medical
+    name: CONTENTIEUX DE LA SECURITE SOCIALE
+    content: 'Contentieux du redressement URSSAF Contestation de l’existence et du
+      caractère professionnel de l’accident du travail/maladie professionnelle Contentieux
+      de la faute inexcusable de l’employeur de la reconnaissance de la faute inexcusable
+      à l’éventuelle liquidation des préjudices après expertise médicale Contentieux
+      contre tout organisme de sécurité sociale : CPAM/MSA/CPR SNCF/CAMIEG, CAF, CARSAT  Contentieux
+      contre la MDPH au titre de toutes prestations pour les personnes handicapées'
 cta:
   enable: false
 
