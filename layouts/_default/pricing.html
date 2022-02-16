@@ -13,7 +13,9 @@
         <div class="pricing-item text-center">
           <div class="price-title">
             {{ with .price }}<i class="value {{ . }}"></i>{{ end }}
+            </br></br>
             {{ with .name }}<h3>{{ . | markdownify }}</h3>{{ end }}
+            </br>
             {{ with .content }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
           </div>
           <ul>
