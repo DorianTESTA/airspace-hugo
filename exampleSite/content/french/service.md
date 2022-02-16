@@ -71,6 +71,16 @@ service:
   title: ''
   description: ''
   service_item:
+  - icon: fas fa-hands-helping
+    name: CONSEIL ET ACCOMPAGNEMENT
+    content: "Rédaction et analyse des contrats de travail</br> Accompagnement et
+      suivi de la rupture du contrat de travail pour tout motif (disciplinaire, inaptitude,
+      insuffisance professionnelle, motif économique, absence prolongée, rupture conventionnelle)
+      </br> Assistance dans la procédure disciplinaire </br> Aide à la gestion de
+      la rémunération et du temps de travail </br> Aide à la gestion de la santé et
+      de la sécurité au travail </br>\tAccompagnement dans la mise en place de la
+      protection sociale complémentaire dans l’entreprise </br> Assistance dans la
+      négociation collective </br> Gestion d’une situation de harcèlement </br>"
   - icon: fas fa-balance-scale-left
     name: ASSISTANCE DANS LE CADRE DU « PRE CONTENTIEUX »
     content: Accompagnement dans la négociation transactionnelle</br> Rédaction de
@@ -91,16 +101,6 @@ service:
       : </u> Recours gracieux, hiérarchique et contentieux (notamment sur les procédures
       de licenciement de représentants du personnel) Recours contentieux en matière
       de contestation de l’homologation/validation d’un PSE"
-  - icon: fas fa-hands-helping
-    name: CONSEIL ET ACCOMPAGNEMENT
-    content: "Rédaction et analyse des contrats de travail</br> Accompagnement et
-      suivi de la rupture du contrat de travail pour tout motif (disciplinaire, inaptitude,
-      insuffisance professionnelle, motif économique, absence prolongée, rupture conventionnelle)
-      </br> Assistance dans la procédure disciplinaire </br> Aide à la gestion de
-      la rémunération et du temps de travail </br> Aide à la gestion de la santé et
-      de la sécurité au travail </br>\tAccompagnement dans la mise en place de la
-      protection sociale complémentaire dans l’entreprise </br> Assistance dans la
-      négociation collective </br> Gestion d’une situation de harcèlement </br>"
   - icon: fas fa-file-medical
     name: CONTENTIEUX DE LA SECURITE SOCIALE
     content: 'Contentieux du redressement URSSAF Contestation de l’existence et du
