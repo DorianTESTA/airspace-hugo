@@ -14,12 +14,12 @@ pricing:
   enable: true
   pricing_table:
   - name: Honoraire au forfait
-    price: fas fa-hands-helping
+    price: fas fa-tasks
     content: 'Un montant fixe est convenu pour l’ensemble de la procédure '
     link: "#"
     services: []
   - name: Honoraire au temps passé
-    price: ''
+    price: fas fa-hourglass-half
     content: Défini en fonction de la durée de traitement du dossier et du tarif horaire
       du cabinet
     link: "#"
