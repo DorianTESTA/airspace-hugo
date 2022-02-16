@@ -14,7 +14,7 @@ pricing:
   enable: true
   pricing_table:
   - name: Honoraire au forfait
-    price: ''
+    price: <i class="fa-solid fa-hourglass-start"></i>
     content: 'Un montant fixe est convenu pour l’ensemble de la procédure '
     link: "#"
     services: []
