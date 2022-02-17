@@ -32,18 +32,18 @@ featured_service:
     icon: fas fa-briefcase
     color: "#001F54"
     content: |-
-      <u>Contentieux prud’homal :</u>
-      Contestation de licenciement pour inaptitude, pour faute, pour insuffisance professionnelle, pour motif économique
-      Contentieux de la prise d’acte ou résiliation judiciaire du contrat de travail
-      Contentieux du harcèlement moral ou de la discrimination salariale / syndicale
-      Contentieux de réclamation d’heures supplémentaires et remise en cause de forfait jours
-      Contentieux de requalification des C.D.D.
-      <u>Contentieux collectifs : </u>
-      Contestation des élections professionnelles
-      Contentieux des désignations et honoraires des experts CSE
-      Référés en cas de grève avec blocage illicite
-      <u>Contentieux administratifs : </u>
-      Recours gracieux, hiérarchique et contentieux (notamment sur les procédures de licenciement de représentants du personnel)
+      <u>Contentieux prud’homal :</u></br>
+      Contestation de licenciement pour inaptitude, pour faute, pour insuffisance professionnelle, pour motif économique </br>
+      Contentieux de la prise d’acte ou résiliation judiciaire du contrat de travail</br>
+      Contentieux du harcèlement moral ou de la discrimination salariale / syndicale</br>
+      Contentieux de réclamation d’heures supplémentaires et remise en cause de forfait jours</br>
+      Contentieux de requalification des C.D.D.</br>
+      <u>Contentieux collectifs : </u></br>
+      Contestation des élections professionnelles</br>
+      Contentieux des désignations et honoraires des experts CSE</br>
+      Référés en cas de grève avec blocage illicite</br>
+      <u>Contentieux administratifs : </u></br>
+      Recours gracieux, hiérarchique et contentieux (notamment sur les procédures de licenciement de représentants du personnel)</br>
       Recours contentieux en matière de contestation de l’homologation/validation d’un PSE
   - name: CONSEIL ET ACCOMPAGNEMENT
     icon: fas fa-hands-helping
