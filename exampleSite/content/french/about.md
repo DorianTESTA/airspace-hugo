@@ -1,5 +1,5 @@
 ---
-title: A propos
+title: A PROPOS
 description: ''
 bg_image: images/parcours.jpg
 layout: about
