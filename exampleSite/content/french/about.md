@@ -7,20 +7,21 @@ about:
   enable: true
   image: "/images/photo-chloé.jpg"
   title: ''
-  content: "Diplômée de l’École de formation professionnelle des barreaux de la cour
-    d’appel de Paris, Maître FABIAN a prêté serment en 2018.\n </br></br>\nDétentrice
-    d’un <b>Master I en droit social</b> et d’un <b>Master II en droit de la protections
-    sociale d’entreprise</b> de l’université Paris I – Panthéon Sorbonne, Maître FABIAN
-    était désireuse de mettre à profit ces acquis universitaires dans son exercice
-    professionnel.\n </br></br>\nA l’issue de son parcours universitaire, Maître FABIAN
-    a intégré le service juridique d’une importante entreprise française pendant près
-    d’un an. \n </br></br>\nPar la suite, Maître FABIAN a enrichi ses connaissances
-    et compétences en collaborant dès sa prestation de serment avec le pôle social
-    d’un cabinet marseillais reconnu. \n </br></br>\nMaître FABIAN est également <b>membre
-    de la commission de droit social du barreau de Marseille</b>. \n </br></br>\nElle
-    intervient en conseil et contentieux en droit du Travail et droit de la Sécurité
-    Sociale pour une clientèle composée tout à la fois de <b>grands groupes<b>, de
-    <b>Sociétés</b>, de <b>TPE</b>, de <b>PME</b> et de <b>salariés</b>."
+  content: " </br></br> </br></br>\nDiplômée de l’École de formation professionnelle
+    des barreaux de la cour d’appel de Paris, Maître FABIAN a prêté serment en 2018.\n
+    </br></br>\nDétentrice d’un <b>Master I en droit social</b> et d’un <b>Master
+    II en droit de la protections sociale d’entreprise</b> de l’université Paris I
+    – Panthéon Sorbonne, Maître FABIAN était désireuse de mettre à profit ces acquis
+    universitaires dans son exercice professionnel.\n </br></br>\nA l’issue de son
+    parcours universitaire, Maître FABIAN a intégré le service juridique d’une importante
+    entreprise française pendant près d’un an. \n </br></br>\nPar la suite, Maître
+    FABIAN a enrichi ses connaissances et compétences en collaborant dès sa prestation
+    de serment avec le pôle social d’un cabinet marseillais reconnu. \n </br></br>\nMaître
+    FABIAN est également <b>membre de la commission de droit social du barreau de
+    Marseille</b>. \n </br></br>\nElle intervient en conseil et contentieux en droit
+    du Travail et droit de la Sécurité Sociale pour une clientèle composée tout à
+    la fois de <b>grands groupes<b>, de <b>Sociétés</b>, de <b>TPE</b>, de <b>PME</b>
+    et de <b>salariés</b>."
   button:
     enable: false
     label: Download Company Profile
