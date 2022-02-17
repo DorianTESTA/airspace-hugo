@@ -6,7 +6,7 @@ layout: about
 about:
   enable: true
   image: "/images/photo-chloé.jpg"
-  title: "<u>Mon parcours professionnel</u></br>"
+  title: ''
   content: "Diplômée de l’École de formation professionnelle des barreaux de la cour
     d’appel de Paris, Maître FABIAN a prêté serment en 2018.\n </br></br>\nDétentrice
     d’un <b>Master I en droit social</b> et d’un <b>Master II en droit de la protections
