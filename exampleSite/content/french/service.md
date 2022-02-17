@@ -22,12 +22,14 @@ featured_service:
     icon: fas fa-balance-scale-left
     color: primary-dark
     content: |-
-      Accompagnement dans la négociation transactionnelle</br>
-      Rédaction de courrier de mise en demeure</br>
-      Analyse et vérification des droits</br>
-      Conseil en vue d’une prise d’acte de la rupture du contrat de travail</br>
-      Recours devant la Commission de Recours Amiable ou Commission Médicale de Recours Amiable </br>
-      Gestion du recours administratif préalable obligatoire </br>
+      <ul>
+      <li>Accompagnement dans la négociation transactionnelle</li>
+      <li>Rédaction de courrier de mise en demeure</li>
+      <li>Analyse et vérification des droits</li>
+      <li>Conseil en vue d’une prise d’acte de la rupture du contrat de travail</li>
+      <li>Recours devant la Commission de Recours Amiable ou Commission Médicale de Recours Amiable</li>
+      <li>Gestion du recours administratif préalable obligatoire</li>
+      </ul>
   - name: CONTENTIEUX DES RELATIONS DE TRAVAIL
     icon: fas fa-briefcase
     color: "#001F54"
