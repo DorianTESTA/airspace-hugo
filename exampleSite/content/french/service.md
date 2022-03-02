@@ -22,7 +22,7 @@ featured_service:
     icon: fas fa-balance-scale-left
     color: primary-dark
     content: |-
-      <ul>
+      <ul style="list-style-type:circle;">
       <li>Accompagnement dans la négociation transactionnelle</li>
       <li>Rédaction de courrier de mise en demeure</li>
       <li>Analyse et vérification des droits</li>
@@ -34,19 +34,28 @@ featured_service:
     icon: fas fa-briefcase
     color: "#001F54"
     content: |-
-      <u>Contentieux prud’homal :</u></br>
-      Contestation de licenciement pour inaptitude, pour faute, pour insuffisance professionnelle, pour motif économique </br>
-      Contentieux de la prise d’acte ou résiliation judiciaire du contrat de travail</br>
-      Contentieux du harcèlement moral ou de la discrimination salariale / syndicale</br>
-      Contentieux de réclamation d’heures supplémentaires et remise en cause de forfait jours</br>
-      Contentieux de requalification des C.D.D.</br>
+      <u>Contentieux prud’homal :</u>
+      <ul style="list-style-type:circle;">
+      <li>Contestation de licenciement pour inaptitude, pour faute, pour insuffisance professionnelle, pour motif économique</li>
+      <li>
+      Contentieux de la prise d’acte ou résiliation judiciaire du contrat de travail</li>
+      <li>Contentieux du harcèlement moral ou de la discrimination salariale / syndicale</li>
+      <li>Contentieux de réclamation d’heures supplémentaires et remise en cause de forfait jours</li>
+      <li>Contentieux de requalification des C.D.D.</li>
+      </ul></br>
+
       <u>Contentieux collectifs : </u></br>
-      Contestation des élections professionnelles</br>
-      Contentieux des désignations et honoraires des experts CSE</br>
-      Référés en cas de grève avec blocage illicite</br>
-      <u>Contentieux administratifs : </u></br>
-      Recours gracieux, hiérarchique et contentieux (notamment sur les procédures de licenciement de représentants du personnel)</br>
-      Recours contentieux en matière de contestation de l’homologation/validation d’un PSE
+      <ul style="list-style-type:circle;">
+      <li>Contestation des élections professionnelles</li>
+      <li>Contentieux des désignations et honoraires des experts CSE</li>
+      <li>Référés en cas de grève avec blocage illicite</li>
+      </ul>
+
+      <u>Contentieux administratifs : </u>
+      <ul style="list-style-type:circle;">
+      <li>Recours gracieux, hiérarchique et contentieux (notamment sur les procédures de licenciement de représentants du personnel)</li>
+      <li>Recours contentieux en matière de contestation de l’homologation/validation d’un PSE</li>
+      </ul>
   - name: CONSEIL ET ACCOMPAGNEMENT
     icon: fas fa-hands-helping
     color: primary
