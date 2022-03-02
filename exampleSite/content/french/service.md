@@ -74,11 +74,17 @@ featured_service:
     icon: fas fa-file-medical
     color: "#12341"
     content: |-
-      Contentieux du redressement URSSAF</br>
-      Contestation de l’existence et du caractère professionnel de l’accident du travail/maladie professionnelle</br>
-      Contentieux de la faute inexcusable de l’employeur de la reconnaissance de la faute inexcusable à l’éventuelle liquidation des préjudices après expertise médicale</br>
-      <u>Contentieux contre tout organisme de sécurité sociale : </u></br>CPAM/MSA/CPR SNCF/CAMIEG, CAF, CARSAT </br>
-      Contentieux contre la MDPH au titre de toutes prestations pour les personnes handicapées</br>
+      <ul style="list-style-type:circle;">
+      <li>Contentieux du redressement URSSAF</li>
+      <li>Contestation de l’existence et du caractère professionnel de l’accident du travail/maladie professionnelle</li>
+      <li>Contentieux de la faute inexcusable de l’employeur de la reconnaissance de la faute inexcusable à l’éventuelle liquidation des préjudices après expertise médicale</li>
+      <li>Contentieux contre tout organisme de sécurité sociale :
+      <li>CPAM/MSA/CPR SNCF/CAMIEG</li>
+      <li>CAF</li>
+      <li>CARSAT </li>
+      </li>
+      <li>Contentieux contre la MDPH au titre de toutes prestations pour les personnes handicapées</li>
+      </ul>
 service:
   enable: true
   title: ''
