@@ -59,14 +59,17 @@ featured_service:
   - name: CONSEIL ET ACCOMPAGNEMENT
     icon: fas fa-hands-helping
     color: primary
-    content: "Rédaction et analyse des contrats de travail</br>\nAccompagnement et
-      suivi de la rupture du contrat de travail pour tout motif (disciplinaire, inaptitude,
-      insuffisance professionnelle, motif économique, absence prolongée, rupture conventionnelle)
-      </br>\nAssistance dans la procédure disciplinaire </br>\nAide à la gestion de
-      la rémunération et du temps de travail </br>\nAide à la gestion de la santé
-      et de la sécurité au travail </br>\tAccompagnement dans la mise en place de
-      la protection sociale complémentaire dans l’entreprise </br>\nAssistance dans
-      la négociation collective </br>\nGestion d’une situation de harcèlement </br>"
+    content: |-
+      <ul style="list-style-type:circle;">
+      <li>Rédaction et analyse des contrats de travail</li>
+      <li>Accompagnement et suivi de la rupture du contrat de travail pour tout motif (disciplinaire, inaptitude, insuffisance professionnelle, motif économique, absence prolongée, rupture conventionnelle) </li>
+      <li>Assistance dans la procédure disciplinaire</li>
+      <li>Aide à la gestion de la rémunération et du temps de travail </li>
+      <li>Aide à la gestion de la santé et de la sécurité au travail</li>
+      <li>Accompagnement dans la mise en place de la protection sociale complémentaire dans l’entreprise</li>
+      <li>Assistance dans la négociation collective</li>
+      <li>Gestion d’une situation de harcèlement</li>
+      </ul>
   - name: CONTENTIEUX DE LA SECURITE SOCIALE
     icon: fas fa-file-medical
     color: "#12341"
