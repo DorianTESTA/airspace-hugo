@@ -1,7 +1,7 @@
 ---
 title: A PROPOS
 description: ''
-bg_image: images/parcours.jpg
+bg_image: images/photo-chloé-1.jpg
 layout: about
 about:
   enable: true
