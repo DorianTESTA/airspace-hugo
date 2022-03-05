@@ -129,7 +129,7 @@ service:
       </li>"
   - icon: fas fa-file-medical
     name: CONTENTIEUX DE LA SECURITE SOCIALE
-    content: "<li>Contentieux du redressement URSSAF <li>\n<li>Contestation de l’existence
+    content: "<li>Contentieux du redressement URSSAF </li>\n<li>Contestation de l’existence
       et du caractère professionnel de l’accident du travail/maladie professionnelle
       </li>\n<li>Contentieux de la faute inexcusable de l’employeur de la reconnaissance
       de la faute inexcusable à l’éventuelle liquidation des préjudices après expertise
