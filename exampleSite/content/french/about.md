@@ -5,7 +5,7 @@ bg_image: images/parcours.jpg
 layout: about
 about:
   enable: true
-  image: "/images/photo-chloé-1.jpg"
+  image: "/images/photo-chloé-2.jpg"
   title: ''
   content: " </br></br> </br></br>\nDiplômée de l’École de formation professionnelle
     des barreaux de la cour d’appel de Paris, Maître FABIAN a prêté serment en 2018.\n
