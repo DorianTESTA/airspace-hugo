@@ -104,25 +104,21 @@ service:
   - icon: fas fa-briefcase
     name: CONTENTIEUX DES RELATIONS DE TRAVAIL
     content: |-
-      <li><u>Contentieux prud’homal :</u><ul>
+      <p><u>Contentieux prud’homal :</u></p>
       <li>Contestation de licenciement pour inaptitude, pour faute, pour insuffisance professionnelle, pour motif économique </li>
       <li>Contentieux de la prise d’acte ou résiliation judiciaire du contrat de travail</li>
       <li>Contentieux du harcèlement moral ou de la discrimination salariale / syndicale</li>
       <li>Contentieux de réclamation d’heures supplémentaires et remise en cause de forfait jours </li>
       <li>Contentieux de requalification des C.D.D.</li>
-      </ul></li>
 
-      <li><u>Contentieux collectifs : </u><ul>
+      <p><u>Contentieux collectifs : </u></p>
       <li>Contestation des élections professionnelles</li>
       <li>Contentieux des désignations et honoraires des experts CSE </li>
       <li>Référés en cas de grève avec blocage illicite</li>
-      </ul></li>
 
-      <li></li>
-      <li><u>Contentieux administratifs : </u><ul>
+      <p><u>Contentieux administratifs : </u></p>
       <li>Recours gracieux, hiérarchique et contentieux (notamment sur les procédures de licenciement de représentants du personnel) </li>
       <li>Recours contentieux en matière de contestation de l’homologation/validation d’un PSE</li>
-      </ul></li>
   - icon: fas fa-balance-scale-left
     name: ASSISTANCE DANS LE CADRE DU « PRE CONTENTIEUX »
     content: Accompagnement dans la négociation transactionnelle</br> Rédaction de
