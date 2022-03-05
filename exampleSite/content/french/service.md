@@ -90,17 +90,6 @@ service:
   title: ''
   description: ''
   service_item:
-  - icon: fas fa-hands-helping
-    name: CONSEIL ET ACCOMPAGNEMENT
-    content: "<li>Rédaction et analyse des contrats de travail</li>\n<li>Accompagnement
-      et suivi de la rupture du contrat de travail pour tout motif (disciplinaire,
-      inaptitude, insuffisance professionnelle, motif économique, absence prolongée,
-      rupture conventionnelle)</li>\n<li>Assistance dans la procédure disciplinaire
-      </li>\n<li>Aide à la gestion de la rémunération et du temps de travail </li>\n<li>Aide
-      à la gestion de la santé et de la sécurité au travail </li>\n<li>Accompagnement
-      dans la mise en place de la protection sociale complémentaire dans l’entreprise
-      </li>\n<li>Assistance dans la négociation collective </li> \n<li>Gestion d’une
-      situation de harcèlement </li>"
   - icon: fas fa-briefcase
     name: CONTENTIEUX DES RELATIONS DE TRAVAIL
     content: |-
@@ -119,14 +108,17 @@ service:
       <p><u>Contentieux administratifs : </u></p>
       <li>Recours gracieux, hiérarchique et contentieux (notamment sur les procédures de licenciement de représentants du personnel) </li>
       <li>Recours contentieux en matière de contestation de l’homologation/validation d’un PSE</li>
-  - icon: fas fa-balance-scale-left
-    name: ASSISTANCE DANS LE CADRE DU « PRE CONTENTIEUX »
-    content: "<li>Accompagnement dans la négociation transactionnelle</li> <li>Rédaction
-      de courrier de mise en demeure</li> \n<li>Analyse et vérification des droits</li>
-      \n<li>Conseil en vue d’une prise d’acte de la rupture du contrat de travail</li>
-      \n<li>Recours devant la Commission de Recours Amiable ou Commission Médicale
-      de Recours Amiable </li> \n<li>Gestion du recours administratif préalable obligatoire
-      </li>"
+  - icon: fas fa-hands-helping
+    name: CONSEIL ET ACCOMPAGNEMENT
+    content: "<li>Rédaction et analyse des contrats de travail</li>\n<li>Accompagnement
+      et suivi de la rupture du contrat de travail pour tout motif (disciplinaire,
+      inaptitude, insuffisance professionnelle, motif économique, absence prolongée,
+      rupture conventionnelle)</li>\n<li>Assistance dans la procédure disciplinaire
+      </li>\n<li>Aide à la gestion de la rémunération et du temps de travail </li>\n<li>Aide
+      à la gestion de la santé et de la sécurité au travail </li>\n<li>Accompagnement
+      dans la mise en place de la protection sociale complémentaire dans l’entreprise
+      </li>\n<li>Assistance dans la négociation collective </li> \n<li>Gestion d’une
+      situation de harcèlement </li>"
   - icon: fas fa-file-medical
     name: CONTENTIEUX DE LA SECURITE SOCIALE
     content: "<li>Contentieux du redressement URSSAF </li>\n<li>Contestation de l’existence
@@ -137,6 +129,14 @@ service:
       pour les personnes handicapées<li>\n<p><u>Contentieux contre tout organisme
       de sécurité sociale : </u></p>\n<li>CPAM/MSA/CPR </li>\n<li>SNCF/CAMIEG</li>\n<li>CAF</li>\n<li>CARSAT</li>
       \n"
+  - icon: fas fa-balance-scale-left
+    name: ASSISTANCE DANS LE CADRE DU « PRE CONTENTIEUX »
+    content: "<li>Accompagnement dans la négociation transactionnelle</li> <li>Rédaction
+      de courrier de mise en demeure</li> \n<li>Analyse et vérification des droits</li>
+      \n<li>Conseil en vue d’une prise d’acte de la rupture du contrat de travail</li>
+      \n<li>Recours devant la Commission de Recours Amiable ou Commission Médicale
+      de Recours Amiable </li> \n<li>Gestion du recours administratif préalable obligatoire
+      </li>"
 cta:
   enable: false
 
