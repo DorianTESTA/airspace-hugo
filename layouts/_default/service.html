@@ -30,7 +30,7 @@
       {{ range .service_item }}
       <div class="col-md-4 bg-primary bg-{{ .color }} no-float">
         <div class="block">
-          <i class="{{ .icon }}"></i>
+          <i class="{{ .icon }} text-center"></i>
           {{ with .name }}<h3>{{ . | markdownify }}</h3>{{ end }}
           {{ with .content }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
         </div>
