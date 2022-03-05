@@ -92,7 +92,7 @@ service:
   service_item:
   - icon: fas fa-hands-helping
     name: CONSEIL ET ACCOMPAGNEMENT
-    content: "<ul>\n<li>Rédaction et analyse des contrats de travail</li>\n<li>Accompagnement
+    content: "<li>Rédaction et analyse des contrats de travail</li>\n<li>Accompagnement
       et suivi de la rupture du contrat de travail pour tout motif (disciplinaire,
       inaptitude, insuffisance professionnelle, motif économique, absence prolongée,
       rupture conventionnelle)</li>\n<li>Assistance dans la procédure disciplinaire
@@ -100,7 +100,7 @@ service:
       à la gestion de la santé et de la sécurité au travail </li>\n<li>Accompagnement
       dans la mise en place de la protection sociale complémentaire dans l’entreprise
       </li>\n<li>Assistance dans la négociation collective </li> \n<li>Gestion d’une
-      situation de harcèlement </li>\n</ul>"
+      situation de harcèlement </li>"
   - icon: fas fa-briefcase
     name: CONTENTIEUX DES RELATIONS DE TRAVAIL
     content: "<u>Contentieux prud’homal :</u> Contestation de licenciement pour inaptitude,
