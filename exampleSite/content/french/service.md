@@ -121,11 +121,12 @@ service:
       <li>Recours contentieux en matière de contestation de l’homologation/validation d’un PSE</li>
   - icon: fas fa-balance-scale-left
     name: ASSISTANCE DANS LE CADRE DU « PRE CONTENTIEUX »
-    content: Accompagnement dans la négociation transactionnelle</br> Rédaction de
-      courrier de mise en demeure</br> Analyse et vérification des droits</br> Conseil
-      en vue d’une prise d’acte de la rupture du contrat de travail</br> Recours devant
-      la Commission de Recours Amiable ou Commission Médicale de Recours Amiable </br>
-      Gestion du recours administratif préalable obligatoire </br>
+    content: "<li>Accompagnement dans la négociation transactionnelle</li> <li>Rédaction
+      de courrier de mise en demeure</li> \n<li>Analyse et vérification des droits</li>
+      \n<li>Conseil en vue d’une prise d’acte de la rupture du contrat de travail</li>
+      \n<li>Recours devant la Commission de Recours Amiable ou Commission Médicale
+      de Recours Amiable </li> \n<li>Gestion du recours administratif préalable obligatoire
+      </li>"
   - icon: fas fa-file-medical
     name: CONTENTIEUX DE LA SECURITE SOCIALE
     content: 'Contentieux du redressement URSSAF Contestation de l’existence et du
