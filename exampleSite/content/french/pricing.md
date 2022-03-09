@@ -17,11 +17,6 @@ pricing:
       du cabinet
     link: "#"
     services: []
-  - name: Honoraire de résultat
-    price: fas fa-chart-bar
-    content: 'Un montant fixe est convenu pour l’ensemble de la procédure '
-    link: "#"
-    services: ''
 cta:
   enable: false
 
