@@ -6,11 +6,6 @@ layout: pricing
 pricing:
   enable: true
   pricing_table:
-  - name: Honoraire de résultat
-    price: fas fa-chart-bar
-    content: 'Un montant fixe est convenu pour l’ensemble de la procédure '
-    link: "#"
-    services: ''
   - name: Honoraire au forfait
     price: fas fa-tasks
     content: 'Un montant fixe est convenu pour l’ensemble de la procédure '
@@ -22,6 +17,11 @@ pricing:
       du cabinet
     link: "#"
     services: []
+  - name: Honoraire de résultat
+    price: fas fa-chart-bar
+    content: 'Un montant fixe est convenu pour l’ensemble de la procédure '
+    link: "#"
+    services: ''
 cta:
   enable: false
 
