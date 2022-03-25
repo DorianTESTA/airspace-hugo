@@ -13,8 +13,8 @@ pricing:
     services: []
   - name: Honoraire au temps passé
     price: fas fa-hourglass-half
-    content: "•\tl’honoraire au temps passé : il est fonction de la durée de traitement
-      du dossier et du tarif horaire du cabinet."
+    content: 'L’honoraire au temps passé : il est fonction de la durée de traitement
+      du dossier et du tarif horaire du cabinet.'
     link: "#"
     services: ''
   - name: Honoraire de résultats
