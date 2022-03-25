@@ -6,6 +6,11 @@ layout: pricing
 pricing:
   enable: true
   pricing_table:
+  - name: Je suis un test
+    price: ''
+    content: ftdrefetrytuytjrh
+    link: "#"
+    services: ''
   - name: TESTEST
     price: fas fa-handshake
     content: fghjkoloiuhgfdfghjkil
