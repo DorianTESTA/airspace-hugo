@@ -6,7 +6,7 @@
   <div class="container">
     {{ with site.Params.contact.form }}{{ if .enable -}}
     <div class="row">
-     <form action="POST" data-netlify="true">
+     <form method="POST" action="/message_sent/" data-netlify="true">
         <div class="col-md-6 col-sm-12">
           <div class="block">
             <div class="form-group">
