@@ -1,6 +1,7 @@
 .service {
   text-align: center;
   padding: 5px 0;
+  height: 500px;
 
   @include tablet {
     padding-top: 20px;
