@@ -23,7 +23,7 @@ action = "/message_sent"
 enable = true
 success_image = "images/paper-plane.svg"
 use_netlify = true
-use_recaptcha = false
+use_recaptcha = true
 [cookies]
 button = "J'accepte !"
 content = "This site uses cookies. By continuing to use this website, you agree to their use."
