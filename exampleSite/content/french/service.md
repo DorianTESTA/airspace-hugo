@@ -69,6 +69,11 @@ featured_service:
       <li>Accompagnement dans la mise en place de la protection sociale complémentaire dans l’entreprise</li>
       <li>Assistance dans la négociation collective</li>
       <li>Gestion d’une situation de harcèlement</li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
       </ul>
   - name: CONTENTIEUX DE LA SECURITE SOCIALE
     icon: fas fa-file-medical
