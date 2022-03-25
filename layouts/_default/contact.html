@@ -25,12 +25,12 @@
               <label for="phone" hidden>{{ i18n "contact_form_phone" }}</label>
               <input id="phone" name="phone" type="text" autocomplete="phone" class="form-control" placeholder="{{ i18n "contact_form_phone" }}" required>
             </div>
-            {{ if .use_netlify -}}
+            {{ if .use_netlify }}
             <div class="form-group-h">
               <input name="nhp" type="text" class="form-control" placeholder="Are you made of flesh and bone?">
             </div>
             {{- end }}
-            {{ if .use_recaptcha -}}
+            {{ if .use_recaptcha }}
             <div class="form-group-h">
               <input type="hidden" id="captchaResponse" name="g-recaptcha-response">
             </div>
