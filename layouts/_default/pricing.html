@@ -19,7 +19,7 @@
           </div>
       
           <ul>
-            {{ .services }}
+            {{ range .services }}
             <li>{{ . | markdownify }}</li>
             {{ end }}
           </ul>
