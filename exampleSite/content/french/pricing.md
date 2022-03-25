@@ -7,7 +7,7 @@ pricing:
   enable: true
   pricing_table:
   - name: TESTEST
-    price: ''
+    price: fas fa-handshake
     content: fghjkoloiuhgfdfghjkil
     link: "#"
     services: []
