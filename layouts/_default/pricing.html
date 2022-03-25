@@ -17,12 +17,6 @@
             {{ with .name }}<h3>{{ . | markdownify }}</h3>{{ end }}
             {{ with .content }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
           </div>
-      
-          <ul>
-            {{ range .services }}
-            <li>{{ . | markdownify }}</li>
-            {{ end }}
-          </ul>
         </div>
       </div>
       {{ end }}
