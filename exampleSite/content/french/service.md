@@ -84,11 +84,6 @@ featured_service:
       <li>CARSAT </li>
       </li>
       <li>Contentieux contre la MDPH au titre de toutes prestations pour les personnes handicapées</li>
-      <li></li>
-      <li></li>
-      <li></li>
-      <li></li>
-      <li></li>
       </ul>
 service:
   enable: true
