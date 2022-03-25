@@ -16,12 +16,6 @@ pricing:
     content: 'Un montant fixe est convenu pour l’ensemble de la procédure '
     link: "#"
     services: []
-  - name: Honoraire au temps passé
-    price: fas fa-hourglass-half
-    content: Défini en fonction de la durée de traitement du dossier et du tarif horaire
-      du cabinet
-    link: "#"
-    services: []
 cta:
   enable: false
 
