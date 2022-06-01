@@ -1,7 +1,7 @@
 ---
 title: DOMAINES D'INTERVENTION
 description: ''
-bg_image: "/images/bâtiment-bleu.jpg"
+bg_image: "/images/parcours.jpg"
 layout: service
 about:
   enable: false
