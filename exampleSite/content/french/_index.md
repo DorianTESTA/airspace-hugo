@@ -42,11 +42,11 @@ service:
 cta:
   enable: true
   bg_image: "/images/marseille-calanques.jpg"
-  title: Où me contacter ?
-  content: Afin d'échanger sur ce dont vous pouvez avoir besoin, merci de ...
+  title: ''
+  content: ''
   button:
     enable: true
-    label: Contact
+    label: Où me contacter ?
     link: contact
 funfacts:
   enable: false
