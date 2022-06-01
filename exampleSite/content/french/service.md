@@ -1,7 +1,7 @@
 ---
 title: DOMAINES D'INTERVENTION
 description: ''
-bg_image: "/images/parcours.jpg"
+bg_image: "/images/bâtiment-bleu.jpg"
 layout: service
 about:
   enable: false
@@ -84,11 +84,7 @@ featured_service:
       <li>Contentieux du redressement URSSAF</li>
       <li>Contestation de l’existence et du caractère professionnel de l’accident du travail/maladie professionnelle</li>
       <li>Contentieux de la faute inexcusable de l’employeur de la reconnaissance de la faute inexcusable à l’éventuelle liquidation des préjudices après expertise médicale</li>
-      <li>Contentieux contre tout organisme de sécurité sociale :
-      <li>CPAM/MSA/CPR SNCF/CAMIEG</li>
-      <li>CAF</li>
-      <li>CARSAT </li>
-      </li>
+      <li>Contentieux contre tout organisme de sécurité sociale (CPAM/MSA/CPR SNCF/CAMIEG, CAF,CARSAT)</li>
       <li>Contentieux contre la MDPH au titre de toutes prestations pour les personnes handicapées</li>
       </ul>
 service:
