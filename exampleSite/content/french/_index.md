@@ -32,7 +32,7 @@ portfolio:
   title: Domaines d'intervention
   content: |2-
 
-    Maître FABIAN met au service de ses clients son expertise en droit du travail et de la sécurité sociale dans divers domaines.
+    Maître FABIAN met au service de ses clients son expertise en droit du travail et de la sécurité sociale.
   button:
     enable: true
     label: En savoir plus
