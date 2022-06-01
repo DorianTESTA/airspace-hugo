@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image: images/marseille-ville.jpg
+  bg_image: images/photo_panorama_marseille.jpg
   bg_overlay: true
   title: Droit du travail <br/> et protection sociale
   content: "Chloé FABIAN, Avocat au barreau de Marseille, vous accompagne dans toutes
@@ -28,19 +28,11 @@ about:
   image: images/wrapper-img.png
 portfolio:
   enable: true
-  bg_image: "/images/bâtiment-bleu_marge-min.png"
+  bg_image: ''
   title: Domaines d'intervention
   content: |2-
 
-    Maître FABIAN met au service de ses clients son expertise en droit du travail et de la sécurité sociale dans les domaines suivants :
-
-    CONSEIL ET ACCOMPAGNEMENT
-
-    ASSISTANCE DANS LE CADRE DU « PRE CONTENTIEUX »
-
-    CONTENTIEUX DES RELATIONS DE TRAVAIL
-
-    CONTENTIEUX DE LA SECURITE SOCIALE
+    Maître FABIAN met au service de ses clients son expertise en droit du travail et de la sécurité sociale dans divers domaines.
   button:
     enable: true
     label: En savoir plus
@@ -65,16 +57,16 @@ funfacts:
   funfact_item:
   - icon: fas fa-mug-hot
     name: Cups Of Coffee
-    count: '99'
+    count: "99"
   - icon: fas fa-glasses
     name: Article Written
-    count: '45'
+    count: "45"
   - icon: fas fa-keyboard
     name: Projects Completed
-    count: '125'
+    count: "125"
   - icon: fas fa-clock
     name: Combined Projects
-    count: '200'
+    count: "200"
   testimonial_slider:
   - name: Raymond Roy
     image: images/clients/avater-1.jpg
@@ -94,7 +86,5 @@ funfacts:
     content: This Company created an e-commerce site with the tools to make our business
       a success, with innovative ideas we feel that our site has unique elements that
       make us stand out from the crowd.
-bg_image: "/images/photo_panorama_marseille.jpg"
-title: ACCUEIL
 
 ---
