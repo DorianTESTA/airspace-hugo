@@ -1,7 +1,7 @@
 ---
 title: A PROPOS
 description: ''
-bg_image: "/images/photo_panorama_marseille.jpg"
+bg_image: "/images/marseille-ville.jpg"
 layout: about
 about:
   enable: true
