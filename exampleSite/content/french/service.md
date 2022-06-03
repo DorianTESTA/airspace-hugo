@@ -121,10 +121,9 @@ service:
       et du caractère professionnel de l’accident du travail/maladie professionnelle
       </li>\n<li>Contentieux de la faute inexcusable de l’employeur de la reconnaissance
       de la faute inexcusable à l’éventuelle liquidation des préjudices après expertise
-      médicale</li> \n<li>Contentieux contre la MDPH au titre de toutes prestations
-      pour les personnes handicapées<li>\n<p><u>Contentieux contre tout organisme
-      de sécurité sociale : </u></p>\n<li>CPAM/MSA/CPR </li>\n<li>SNCF/CAMIEG</li>\n<li>CAF</li>\n<li>CARSAT</li>
-      \n"
+      médicale</li> \n<li>Contentieux contre tout organisme de sécurité sociale (CPAM/MSA,
+      CAF,CARSAT)</li>\n<li>Contentieux contre la MDPH au titre de toutes prestations
+      pour les personnes handicapées</li>"
   - icon: fas fa-balance-scale-left
     name: ASSISTANCE DANS LE CADRE DU « PRE CONTENTIEUX »
     content: "<li>Accompagnement dans la négociation transactionnelle</li> <li>Rédaction
