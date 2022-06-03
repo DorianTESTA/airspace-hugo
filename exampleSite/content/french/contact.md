@@ -1,7 +1,7 @@
 ---
 title: Contact
 description: ''
-bg_image: "/images/contact-question.jpg"
+bg_image: "/images/marseille-calanques.jpg"
 layout: contact
 
 ---
