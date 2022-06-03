@@ -80,13 +80,11 @@ featured_service:
     icon: fas fa-file-medical
     color: "#12341"
     content: |-
-      <ul style="list-style-type:circle;">
       <li>Contentieux du redressement URSSAF</li>
       <li>Contestation de l’existence et du caractère professionnel de l’accident du travail/maladie professionnelle</li>
       <li>Contentieux de la faute inexcusable de l’employeur de la reconnaissance de la faute inexcusable à l’éventuelle liquidation des préjudices après expertise médicale</li>
       <li>Contentieux contre tout organisme de sécurité sociale (CPAM/MSA, CAF,CARSAT)</li>
       <li>Contentieux contre la MDPH au titre de toutes prestations pour les personnes handicapées</li>
-      </ul>
 service:
   enable: true
   title: ''
