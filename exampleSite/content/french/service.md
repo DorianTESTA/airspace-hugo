@@ -22,14 +22,12 @@ featured_service:
     icon: fas fa-balance-scale-left
     color: primary-dark
     content: |-
-      <ul style="list-style-type:circle;">
       <li>Accompagnement dans la négociation transactionnelle</li>
       <li>Rédaction de courrier de mise en demeure</li>
       <li>Analyse et vérification des droits</li>
       <li>Conseil en vue d’une prise d’acte de la rupture du contrat de travail</li>
       <li>Recours devant la Commission de Recours Amiable ou Commission Médicale de Recours Amiable</li>
       <li>Gestion du recours administratif préalable obligatoire</li>
-      </ul>
   - name: CONTENTIEUX DES RELATIONS DE TRAVAIL
     icon: fas fa-briefcase
     color: "#001F54"
@@ -60,7 +58,6 @@ featured_service:
     icon: fas fa-hands-helping
     color: primary
     content: |-
-      <ul style="list-style-type:circle;">
       <li>Rédaction et analyse des contrats de travail</li>
       <li>Accompagnement et suivi de la rupture du contrat de travail pour tout motif (disciplinaire, inaptitude, insuffisance professionnelle, motif économique, absence prolongée, rupture conventionnelle) </li>
       <li>Assistance dans la procédure disciplinaire</li>
@@ -75,7 +72,6 @@ featured_service:
       <li></li>
       <li></li>
       <li></li>
-      </ul>
   - name: CONTENTIEUX DE LA SECURITE SOCIALE
     icon: fas fa-file-medical
     color: "#12341"
